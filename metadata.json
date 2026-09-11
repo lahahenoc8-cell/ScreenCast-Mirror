@@ -1,0 +1,6 @@
+{
+  "name": "ScreenCast Mirror",
+  "description": "Partagez l'écran de votre téléphone avec votre ordinateur en temps réel avec WebRTC, et contrôlez à distance votre téléphone depuis le PC ou votre PC depuis votre smartphone (Trackpad, Clavier, Diaporama, Alerte sonore, Flash).",
+  "requestFramePermissions": ["camera", "microphone", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
